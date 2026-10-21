@@ -1,0 +1,6 @@
+export interface ProductPanelType {
+    id:          number;
+    title:       string;
+    price:       number;
+    description: string;
+}
